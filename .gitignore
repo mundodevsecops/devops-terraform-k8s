@@ -1,0 +1,5 @@
+terraform.tf*
+terraform.lock.*
+.terraform
+kube_config.yaml
+terraform.tfvars
